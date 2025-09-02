@@ -6,3 +6,4 @@ CCTV-1,http://112.123.206.32:808/hls/1/index.m3u8
 CCTV-1,http://221.226.51.220:50081/newlive/live/hls/1/live.m3u8
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://www.cdnstv.com:6398/hls/1/index.m3u8
+美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
