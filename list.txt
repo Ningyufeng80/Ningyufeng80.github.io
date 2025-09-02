@@ -1,4 +1,8 @@
 📺央视频道,#genre#
 CCTV-1,http://1.180.2.93:9901/tsfile/live/1020_1.m3u8
 cctv-1,https://stream1.freetv.fun/1af620737a90541e9c257c611287067d5413a23bbd2681815a4f57e4e9fbce3c.m3u8
+CCTV4K,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8?$40M3840x2160
+CCTV4K,http://www.520345.xyz:8188/rtp/239.69.1.111:10304?$3840x2160
+CCTV4K,http://117.174.25.254:8188/rtp/239.0.0.184:5140?$3840x2160
+CCTV4K,http://219.140.5.23:8888/rtp/239.69.1.111:10304?$3840x2160
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
