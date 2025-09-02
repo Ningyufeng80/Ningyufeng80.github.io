@@ -6,3 +6,4 @@ CCTV4K,http://www.520345.xyz:8188/rtp/239.69.1.111:10304?$3840x2160
 CCTV4K,http://117.174.25.254:8188/rtp/239.0.0.184:5140?$3840x2160
 CCTV4K,http://219.140.5.23:8888/rtp/239.69.1.111:10304?$3840x2160
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+
